@@ -1,0 +1,15 @@
+{
+  "name": "angular-isotope-shiftColumn",
+  "version": "0.1.14",
+  "authors": [
+    "Anis Bouraba <anis.bouraba@appsbroker.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
